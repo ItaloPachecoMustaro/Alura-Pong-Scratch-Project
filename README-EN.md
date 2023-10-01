@@ -3,7 +3,7 @@
 </div>
 
 <hr>
-<a href="https://github.com/ItaloPachecoMustaro/Alura-Pong-Scratch-Project/blob/main/README.md">Não fala inglês? Clique aqui para ver a versão em português.</a>
+<a href="https://github.com/ItaloPachecoMustaro/Alura-Pong-Scratch-Project/blob/main/README.md">Não fala Inglês? Clique aqui para ver a versão em português.</a>
 <hr>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 📚Description
 
-This is a learning project I developed as part of the course "Programming Logic: Get Started in Logic with the Pong Game in Scratch". During the course, I delved into the fundamental principles of programming, all while creating the classic game Pong on the Scratch platform.
+This is a learning project I developed as part of the "Programming Logic: Get Started in Logic with the Pong Game in Scratch" course by Alura. During the course, I delved into the fundamental principles of programming, all while creating the classic game Pong on the Scratch platform.
 <br>
 
 ## 🧑‍💻Authors
