@@ -14,7 +14,7 @@
 
 ## 📚Descrição
 
-Este é um projeto de aprendizado que desenvolvi como parte do curso "Lógica de Programação: Comece em Lógica com o Jogo Pong no Scratch". Durante o curso, mergulhei nos princípios fundamentais da programação, tudo enquanto criava o clássico jogo Pong na plataforma Scratch.
+Este é um projeto de aprendizado que desenvolvi como parte do curso "Lógica de Programação: Comece em Lógica com o Jogo Pong no Scratch" da Alura. Durante o curso, mergulhei nos princípios fundamentais da programação, tudo enquanto criava o clássico jogo Pong na plataforma Scratch.
 <br>
 
 ## 🧑‍💻Autores
